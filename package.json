@@ -5,11 +5,11 @@
   "author": "mslembro",
   "license": "MIT",
   "urls": [
-    ["bmp280/__init__.py", "bmp280/__init__.py"],
-    ["bmp280/bmp280.py", "bmp280/bmp280.py"],
-    ["bmp280/bmp280_configuration.py", "bmp280/bmp280_configuration.py"],
-    ["bmp280/bmp280_i2c.py", "bmp280/bmp280_i2c.py"],
-    ["bmp280/bmp280_spi.py","bmp280/bmp280_spi.py"]
+    ["bmp280/__init__.py", "github:mslembro/pico-bmp280/bmp280/__init__.py"],
+    ["bmp280/bmp280.py", "github:mslembro/pico-bmp280/bmp280/bmp280.py"],
+    ["bmp280/bmp280_configuration.py", "github:mslembro/pico-bmp280/bmp280/bmp280_configuration.py"],
+    ["bmp280/bmp280_i2c.py", "github:mslembro/pico-bmp280/bmp280/bmp280_i2c.py"],
+    ["bmp280/bmp280_spi.py","github:mslembro/pico-bmp280/bmp280/bmp280_spi.py"]
   ],
   "deps": [],
   "version": "0.1",
