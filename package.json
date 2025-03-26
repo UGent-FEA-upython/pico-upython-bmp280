@@ -1,4 +1,9 @@
 {
+  "name": "pico-bmp280",
+  "version": "1.0.0",
+  "description": "MicroPython driver for the BMP280 sensor.",
+  "author": "mslembro",
+  "license": "MIT",
   "urls": [
     ["bmp280/__init__.py", "bmp280/__init__.py"],
     ["bmp280/bmp280.py", "bmp280/bmp280.py"],
@@ -7,5 +12,9 @@
     ["bmp280/bmp280_spi.py","bmp280/bmp280_spi.py"]
   ],
   "deps": [],
-  "version": "0.1"
+  "version": "0.1",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/mslembro/pico-bmp280.git"
+    }
 }
