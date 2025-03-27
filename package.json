@@ -12,7 +12,6 @@
     ["bmp280/bmp280_spi.py","github:mslembro/pico-upython-bmp280/bmp280/bmp280_spi.py"]
   ],
   "deps": [],
-  "version": "0.1",
   "repository": {
         "type": "git",
         "url": "https://github.com/mslembro/pico-upython-bmp280.git"
