@@ -1,4 +1,4 @@
-# pico-bmp280
+# pico-python-bmp280
 
 This is a MicroPython library for the Raspberry Pi Pico and allows communicating with the 
 [BMP280 pressure sensor](https://www.bosch-sensortec.com/products/environmental-sensors/pressure-sensors/bmp280/) 
