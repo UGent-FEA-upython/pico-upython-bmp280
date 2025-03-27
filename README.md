@@ -4,6 +4,15 @@ This is a MicroPython library for the Raspberry Pi Pico and allows communicating
 [BMP280 pressure sensor](https://www.bosch-sensortec.com/products/environmental-sensors/pressure-sensors/bmp280/) 
 through the SPI and I2C protocols.
 
+## Install on your board
+
+Using mip, you can install this on the board (make sure to first enable the Wifi connection)
+
+```python
+import mip
+mip.install("github:mslembro/pico-upython-bmp280")
+```
+
 ## SPI Example
 ```python
 from machine import Pin, SPI
