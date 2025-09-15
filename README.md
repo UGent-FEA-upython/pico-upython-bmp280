@@ -10,7 +10,7 @@ Using mip, you can install this on the board (make sure to first enable the Wifi
 
 ```python
 import mip
-mip.install("github:mslembro/pico-upython-bmp280")
+mip.install("github:UGent-FEA-upython/pico-upython-bmp280")
 ```
 
 ## SPI Example
